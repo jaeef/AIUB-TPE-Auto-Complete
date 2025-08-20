@@ -27,8 +27,14 @@ A JavaScript script to automate filling out review forms by selecting the "Agree
    - Comment box must have `id="Comment"`
    - Submit button must be `<input type="submit">` or `<button type="submit">`
 
+## Demo 
+<img width="1920" height="918" alt="demo" src="https://github.com/user-attachments/assets/048f47b7-304c-4157-8538-23b503c00989" />
+
+
+
 ## Installation
 No installation required. Copy the script from `Tpe.js` or `TPE.txt`  paste it into the browser console.
+
 
 ## Limitations
 - Requires specific HTML structure
@@ -44,3 +50,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Disclaimer
 
 Use this script responsibly and at your own risk. Always review form submissions before they are sent.
+
