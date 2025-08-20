@@ -14,7 +14,7 @@ A JavaScript script to automate filling out review forms by selecting the "Agree
    - Open the web page containing the review form in your browser
    - Open Developer Tools (F12 or right-click Or Inspect)
    - Navigate to the Console tab
-   - Copy and paste the contents of `Tpe.js` into the console and press Enter
+   - Copy and paste the contents of `Tpe.js` or `TPE.txt` into the console and press Enter
 
 2. **Expected Behavior**:
    - All radio buttons with value="4" will be selected
@@ -28,7 +28,7 @@ A JavaScript script to automate filling out review forms by selecting the "Agree
    - Submit button must be `<input type="submit">` or `<button type="submit">`
 
 ## Installation
-No installation required. Copy the script from `Tpe.js` and paste it into the browser console.
+No installation required. Copy the script from `Tpe.js` or `TPE.txt`  paste it into the browser console.
 
 ## Limitations
 - Requires specific HTML structure
@@ -42,4 +42,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Disclaimer
+
 Use this script responsibly and at your own risk. Always review form submissions before they are sent.
