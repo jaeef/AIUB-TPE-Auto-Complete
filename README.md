@@ -33,11 +33,11 @@ No installation required. Copy the script from `Tpe.js` or `TPE.txt`  paste it i
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Disclaimer
 
 Use this script responsibly and at your own risk. Always review form submissions before they are sent.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
